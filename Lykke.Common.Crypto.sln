@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lykke.Common.Crypto", "src\Lykke.Common.Crypto\Lykke.Common.Crypto.csproj", "{A18D13C5-2291-4381-AF32-13AC1F188EED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lykke.Common.Crypto.Test", "test\Lykke.Common.Crypto.Test\Lykke.Common.Crypto.Test.csproj", "{01E78A04-0B81-46AC-B0AE-21CA1B6CD6C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A18D13C5-2291-4381-AF32-13AC1F188EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18D13C5-2291-4381-AF32-13AC1F188EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18D13C5-2291-4381-AF32-13AC1F188EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18D13C5-2291-4381-AF32-13AC1F188EED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01E78A04-0B81-46AC-B0AE-21CA1B6CD6C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E78A04-0B81-46AC-B0AE-21CA1B6CD6C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E78A04-0B81-46AC-B0AE-21CA1B6CD6C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E78A04-0B81-46AC-B0AE-21CA1B6CD6C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E112BFF-0E64-476B-9815-833E65A909AF}
+	EndGlobalSection
+EndGlobal
